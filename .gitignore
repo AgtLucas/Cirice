@@ -20,7 +20,8 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
-project.xcworkspace
+Cirice.xcworkspace
+pods
 
 # Android/IJ
 #
