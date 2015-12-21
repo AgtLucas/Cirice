@@ -4,11 +4,11 @@ PODS:
     - Mapbox-iOS-SDK (= 3.0.0)
 
 DEPENDENCIES:
-  - RCTMapboxGL (from `node_modules/react-native-mapbox-gl/ios`)
+  - RCTMapboxGL (from `./node_modules/react-native-mapbox-gl/ios`)
 
 EXTERNAL SOURCES:
   RCTMapboxGL:
-    :path: node_modules/react-native-mapbox-gl/ios
+    :path: "./node_modules/react-native-mapbox-gl/ios"
 
 SPEC CHECKSUMS:
   Mapbox-iOS-SDK: 5e7bafc554a15ebfc615d8b0fa0a0b5d31faac70
